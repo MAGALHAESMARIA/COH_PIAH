@@ -214,7 +214,7 @@ def avalia_textos(textos, ass_cp):
     return texto_com_maior_simili
 
 
-ass_cp = le_assinatura()  # inputa assinatura que iremos usar como comparação
+ass_cp = le_assinatura()  # recebe a assinatura que iremos usar como comparação
 textos = le_textos()  # realiza a leitura dos texos
 
-avalia_textos(textos, ass_cp)  # avalia os textos e compara com a assinatura inputada
+avalia_textos(textos, ass_cp)  # avalia os textos e compara com a assinatura recebida
