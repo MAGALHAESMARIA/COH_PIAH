@@ -1,6 +1,7 @@
 ### **Desafio**
 https://www.coursera.org/learn/ciencia-computacao-python-conceitos/programming/yEPxE/programa-completo-jogo-do-nim
 
+## **Similaridades entre textos - Caso COH-PIAH**
 ### **Introdução**
 
 Manuel Estandarte atua como monitor na disciplina de Introdução à Produção Textual I na Universidade de Pasárgada (UPA). Durante o período letivo, Manuel identificou a propagação de uma epidemia de COH-PIAH na UPA. Essa enfermidade incomum e altamente contagiosa leva os indivíduos contaminados a produzirem textos involuntariamente similares aos de outros. Diante dessa situação, Manuel, preocupado com a saúde dos alunos, decidiu desenvolver um programa para identificar casos de COH-PIAH, solicitando sua colaboração nesse processo.
