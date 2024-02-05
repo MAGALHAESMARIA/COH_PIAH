@@ -208,9 +208,9 @@ def avalia_textos(textos, ass_cp):
         similaridade_entre_textos = compara_assinatura(assinatura_texto, ass_cp)
         similaridades.append(similaridade_entre_textos)
 
-    maior_similariedade = min(similaridades)  # Quanto menor o valor dessa variavel, maior a similaridade. Por isso usei min() invés de max()
+    maior_similaridade = min(similaridades)  # Quanto menor o valor dessa variavel, maior a similaridade. Por isso usei min() invés de max()
 
-    texto_com_maior_simili = similaridades.index(maior_similariedade) + 1
+    texto_com_maior_simili = similaridades.index(maior_similaridade) + 1
 
     return texto_com_maior_simili
 
