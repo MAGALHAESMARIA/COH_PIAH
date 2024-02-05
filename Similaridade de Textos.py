@@ -1,6 +1,5 @@
 import re
 
-
 # FUNÇÕES DISPONIBILIZADAS PELO IDEALIZADOR DO PROJETO
 def le_assinatura():
     '''A função lê os valores dos traços linguísticos do modelo e devolve uma assinatura a ser comparada com os textos fornecidos'''
@@ -78,7 +77,7 @@ def n_palavras_diferentes(lista_palavras):
     return len(freq)
 
 
-# FUNÇOES ESCRITAS POR MIM
+# MINHAS FUNÇÕES
 def separa_palavras_de_um_texto(texto):
     # Recebe um texto e devolve uma lista com palavras do texto
     palavras = []
