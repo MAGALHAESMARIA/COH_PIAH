@@ -1,8 +1,6 @@
 ### **Desafio**
 https://www.coursera.org/learn/ciencia-computacao-python-conceitos/programming/yEPxE/programa-completo-jogo-do-nim
 
-![image](https://github.com/MAGALHAESMARIA/COH_PIAH/assets/159083956/84dea100-4a94-4e4f-9104-f78cbfc85f27)
-
 ## **Similaridades entre textos - Caso COH-PIAH**
 ### **Introdução**
 
